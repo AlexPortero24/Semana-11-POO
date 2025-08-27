@@ -51,15 +51,8 @@ Ubicada en `main.py`
   7. Mostrar producto por ID usando diccionario  
   8. Mostrar todos los productos usando diccionario  
 
-## 6. Cómo usar el sistema
-1. Ejecutar `main.py` en Python 3.  
-2. Seguir el menú interactivo para:
-   - Agregar productos con ID único, nombre, cantidad y precio.  
-   - Eliminar productos por ID.  
-   - Actualizar cantidad o precio.  
-   - Buscar productos por nombre o ID.  
-   - Mostrar todos los productos.  
-3. Los datos se guardan automáticamente en `inventario.txt`.  
+
+## 7. Los datos se guardan automáticamente en `inventario.txt`.  
 
 ## Notas importantes
 - Se añadió un diccionario (`productos_dict`) para optimizar el acceso rápido a los productos por su ID.  
